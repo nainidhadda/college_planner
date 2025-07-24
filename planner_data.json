@@ -1,0 +1,1 @@
+{"finance": [{"type": "Savings Goal", "name": "Laptop", "target": 10000.0, "saved": 900.0}, {"type": "Savings Goal", "name": "Tab ", "target": 30000.0, "saved": 100.0}], "learning": {"DS": [{"task": "bubble sort", "status": "Done"}, {"task": "selection sort", "status": "Done"}, {"task": "insertion sort", "status": "ToDo"}]}}
